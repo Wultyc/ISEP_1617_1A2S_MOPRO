@@ -1,0 +1,9 @@
+Este é um projeto académico desenvolvido por André Oliveira e J. Gabriel
+Azevedo no ambito da unidade curricular Modelação e Programação da
+Licenciatura em Engenharia de Sistemas. O seu uso é reservado para fins
+academicos, para avaliação dos seu criadores originais na unidade curricular
+num primeiro momento e servindo como base de estudo, para qualquer outro
+indivíduo, após este momento de avaliação. A utilização do código deste
+projeto num outro é permitida com a garantia da devida referencia aos
+criadores originais. Qualquer tipo de cópia e distribuição para outros fins é
+ilegal.
